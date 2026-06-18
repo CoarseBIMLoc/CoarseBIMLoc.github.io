@@ -27,6 +27,13 @@ body {
   margin-bottom: 1.75rem;
 }
 
+.section-description {
+  margin: -0.5rem 0 1.5rem;
+  max-width: none;
+  color: #5b6670;
+  text-align: justify;
+}
+
 
 .footer .icon-link {
     font-size: 25px;
@@ -177,6 +184,18 @@ body {
   color: #243746;
   min-height: 3.25rem;
   line-height: 1.35;
+}
+
+.page-section-logo {
+  padding-top: 0.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.bottom-logo {
+  width: 20%;
+  max-width: 28vw;
+  display: inline-block;
+  opacity: 0.92;
 }
 
 .publication-body img {
